@@ -2,8 +2,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshpied&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshpied&layout=compact" />
+</a>
+
 <a href="https://github.com/joshpied/joshpiedimonte">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joshpied&repo=joshpiedimonte&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joshpied&repo=joshpiedimonte" />
 </a>
 
 <!--
